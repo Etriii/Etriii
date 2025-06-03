@@ -112,6 +112,49 @@
   </div>
 </div>
 
+<!-- Language and Tools -->
+<br>
+<img src="./assets/border_separator.gif">
+
+<div align="center">
+  <h3>Technologies and Tools</h3>
+ <kbd>
+     <div align="center">
+         <p>
+       <br>
+         <strong>Programming Languages</strong>
+       <br>
+       <br>
+          
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=5)](https://skillicons.dev)
+         </p>
+     </div>
+  </kbd>
+  <kbd>
+     <div align="center">
+        <p>
+          <br>
+            <strong>Libraries,Frameworks & Databases</strong>
+          <br>
+          <br>
+          
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=5)](https://skillicons.dev)
+         </p>
+     </div>
+  </kbd>
+  <kbd>
+     <div align="center">
+        <p>
+          <br>
+            <strong>DevOps</strong>
+          <br>
+          <br>
+          
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=5)](https://skillicons.dev)
+        </p>
+     </div>
+  </kbd>
+</div>
 
 
 ## 🌟 Enjoying My Projects?
