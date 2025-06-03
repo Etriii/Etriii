@@ -126,7 +126,7 @@
        <br>
        <br>
           
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=4)](https://skillicons.dev)
          </p>
      </div>
   </kbd>
@@ -138,7 +138,7 @@
           <br>
           <br>
           
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=4)](https://skillicons.dev)
          </p>
      </div>
   </kbd>
@@ -150,7 +150,7 @@
           <br>
           <br>
           
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=4)](https://skillicons.dev)
         </p>
      </div>
   </kbd>
