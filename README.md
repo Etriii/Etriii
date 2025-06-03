@@ -1,9 +1,27 @@
-<h1 align="center">Hi 👋, I'm Alex The Great</h1>
-<h3 align="center">A passionate full stack developer from Philippines</h3>
-<div align="center">
-<img src="./chilling_at_sea.gif" />
-</div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Etriii&label=Profile%20views&color=0e75b6&style=flat" alt="Etriii" /> </p>
+<p align="">
+  <a href="https://github.com/Etriii">
+    <img src="https://img.shields.io/github/followers/Etriii?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Etriii?tab=repositories">
+    <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-Etriii-blueviolet" alt="Star My Repos" />
+  </a>
+  <a href="https://github.com/Etriii">
+    <img src="https://komarev.com/ghpvc/?username=Etriii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Etriii">
+    <img src="https://img.shields.io/github/last-commit/Etriii/Etriii?color=green" alt="Last Commit" />
+  </a>
+  <a href="https://github.com/Etriii">
+    <img src="https://img.shields.io/badge/Check%20My-Code-blue?style=flat&logo=github" alt="Check My Code" />
+  </a>
+</p>
+
+![MASTER-HEAD](./assets/api_animated_gif.gif)
+
+<img src="./assets/border_separator.gif">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF7BB&width=850&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Alex%2C+Thanks+for+visiting!;If+you+like+my+work%2C+consider+giving+my+repos+a+%E2%AD%90+%E2%80%94+it+really+helps!)](https://git.io/typing-svg)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Etriii" alt="Etriii" /></a> </p>
 
@@ -31,3 +49,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Etriii&show_icons=true&locale=en" alt="Etriii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Etriii&" alt="Etriii" /></p>
+
+
+## 🌟 Enjoying My Projects?
+
+If you find my work helpful or interesting, please consider **starring my repositories** or **following me on GitHub** — it really motivates me to keep building and sharing! 😊
+
+👉 [View All My Repositories](https://github.com/Etriii?tab=repositories)  
+👉 [Follow Me on GitHub](https://github.com/Etriii)
+
+Thanks for your support! 💖
+
+
