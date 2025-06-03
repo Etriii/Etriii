@@ -1,4 +1,4 @@
-<p align="">
+![image](https://github.com/user-attachments/assets/86beebe2-3d40-4c7e-bfb8-c7f9034c46bb)<p align="">
   <a href="https://github.com/Etriii">
     <img src="https://img.shields.io/github/followers/Etriii?label=Followers&style=social" alt="GitHub Followers" />
   </a>
@@ -73,6 +73,7 @@
 <div align="center">
   <img src="./assets/terminal.gif" />
 </div>
+<img src="./assets/border_separator.gif">
 
 <!-- Github Stats -->
 <div align="center">
@@ -113,8 +114,6 @@
 </div>
 
 <!-- Language and Tools -->
-<br>
-<img src="./assets/border_separator.gif">
 
 <div align="center">
   <h3>Technologies and Tools</h3>
@@ -126,7 +125,7 @@
        <br>
        <br>
           
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,ts,py,dart,php,java&perline=4)](https://skillicons.dev)
          </p>
      </div>
   </kbd>
@@ -138,7 +137,7 @@
           <br>
           <br>
           
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,angular,nextjs,laravel,fastapi,bootstrap,tailwind,vite,supabase,mysql,postgres,dynamodb&perline=4)](https://skillicons.dev)
          </p>
      </div>
   </kbd>
@@ -150,12 +149,13 @@
           <br>
           <br>
           
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,githubactions,bash,cloudflare,azure,powershell,linux&perline=4)](https://skillicons.dev)
         </p>
      </div>
   </kbd>
 </div>
 
+<img src="./assets/border_separator.gif">
 
 ## 🌟 Enjoying My Projects?
 
