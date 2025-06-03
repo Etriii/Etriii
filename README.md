@@ -99,10 +99,11 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Etriii&theme=tokyonight&utcOffset=+8.0" width="340px" />
   </div>
 
-  <!-- Wakatime Stats -->
+  <!-- Wakatime Stats
    <div style="margin-bottom: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Etriii&theme=tokyonight&hide_border=true&layout=compact" width="680px" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Etriii&layout=compact&theme=tokyonight&hide_border=true&range=last_year" width="680px" />
    </div>
+ -->
 
 
   <!-- Trophies -->
