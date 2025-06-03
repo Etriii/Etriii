@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/86beebe2-3d40-4c7e-bfb8-c7f9034c46bb)<p align="">
   <a href="https://github.com/Etriii">
     <img src="https://img.shields.io/github/followers/Etriii?label=Followers&style=social" alt="GitHub Followers" />
   </a>
