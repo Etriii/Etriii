@@ -124,10 +124,11 @@
        <br>
        <br>
           
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,ts,py,dart,php,java&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,ts,py,dart,php,java,bash&perline=6)](https://skillicons.dev)
          </p>
      </div>
   </kbd>
+  
   <kbd>
      <div align="center">
         <p>
@@ -136,22 +137,63 @@
           <br>
           <br>
           
-[![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,angular,nextjs,laravel,fastapi,bootstrap,tailwind,vite,supabase,mysql,postgres,dynamodb&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,angular,nextjs,laravel,fastapi,bootstrap,tailwind,vite,supabase,mysql,postgres,dynamodb&perline=6)](https://skillicons.dev)
          </p>
      </div>
   </kbd>
+  
   <kbd>
      <div align="center">
         <p>
           <br>
-            <strong>DevOps</strong>
+            <strong>DevOps & Cloud</strong>
           <br>
           <br>
           
-[![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,githubactions,bash,cloudflare,azure,powershell,linux,androidstudio&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,githubactions,cloudflare,azure,vercel&perline=6)](https://skillicons.dev)
         </p>
      </div>
   </kbd>
+
+   <kbd>
+     <div align="center">
+        <p>
+          <br>
+            <strong> Operating Systems, Platforms & Networks</strong>
+          <br>
+          <br>
+          
+[![My Skills](https://skillicons.dev/icons?i=arch,kali,linux,ubuntu,windows,discord,github,linkedin,instagram,stack-overflow&perline=6)](https://skillicons.dev)
+        </p>
+     </div>
+  </kbd>
+
+  <kbd>
+     <div align="center">
+        <p>
+          <br>
+            <strong>IDEs & Code Editors, Testing & Monitoring</strong>
+          <br>
+          <br>
+          
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,eclipse,idea,postman,&perline=6)](https://skillicons.dev)
+        </p>
+     </div>
+  </kbd>
+
+  <kbd>
+     <div align="center">
+        <p>
+          <br>
+            <strong> Design & Creative Tools, Build Tools & Package Managers</strong>
+          <br>
+          <br>
+          
+[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,npm&perline=6)](https://skillicons.dev)
+        </p>
+     </div>
+  </kbd>
+  
 </div>
 
 <img src="./assets/border_separator.gif">
