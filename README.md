@@ -124,7 +124,7 @@
        <br>
        <br>
           
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,ts,py,dart,php,java&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,ts,py,dart,php,java&perline=7)](https://skillicons.dev)
          </p>
      </div>
   </kbd>
@@ -136,7 +136,7 @@
           <br>
           <br>
           
-[![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,angular,nextjs,laravel,fastapi,bootstrap,tailwind,vite,supabase,mysql,postgres,dynamodb&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,angular,nextjs,laravel,fastapi,bootstrap,tailwind,vite,supabase,mysql,postgres,dynamodb&perline=7)](https://skillicons.dev)
          </p>
      </div>
   </kbd>
@@ -148,7 +148,7 @@
           <br>
           <br>
           
-[![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,githubactions,bash,cloudflare,azure,powershell,linux&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,githubactions,bash,cloudflare,azure,powershell,linux,androidstudio&perline=7)](https://skillicons.dev)
         </p>
      </div>
   </kbd>
