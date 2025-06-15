@@ -108,7 +108,7 @@
 
   <!-- Trophies -->
   <div>
-      <img src="https://github-profile-trophy.vercel.app/?username=Etriii&theme=tokyonight&column=10&no-frame=true&margin-w=10" width="100%" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Etriii&theme=tokyonight&column=10&no-frame=true&margin-w=10" width="680" />
   </div>
   
 </div>
