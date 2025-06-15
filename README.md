@@ -108,7 +108,7 @@
 
   <!-- Trophies -->
   <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=Etriii&theme=tokyonight&column=6&no-frame=true&margin-w=10" width="680px" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Etriii&theme=tokyonight&column=10&no-frame=true&margin-w=10" width="680px" />
   </div>
 </div>
 
@@ -116,85 +116,93 @@
 
 <div align="center">
   <h3>Technologies and Tools</h3>
- <kbd>
-     <div align="center">
-         <p>
-       <br>
-         <strong>Programming Languages</strong>
-       <br>
-       <br>
-          
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,ts,py,dart,php,java,bash&perline=6)](https://skillicons.dev)
-         </p>
-     </div>
-  </kbd>
-  
-  <kbd>
-     <div align="center">
-        <p>
-          <br>
-            <strong>Libraries,Frameworks & Databases</strong>
-          <br>
-          <br>
-          
-[![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,angular,nextjs,laravel,fastapi,bootstrap,tailwind,vite,supabase,mysql,postgres,dynamodb&perline=6)](https://skillicons.dev)
-         </p>
-     </div>
-  </kbd>
-  
-  <kbd>
-     <div align="center">
-        <p>
-          <br>
-            <strong>DevOps & Cloud</strong>
-          <br>
-          <br>
-          
-[![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,githubactions,cloudflare,azure,vercel&perline=6)](https://skillicons.dev)
-        </p>
-     </div>
-  </kbd>
 
-   <kbd>
-     <div align="center">
-        <p>
-          <br>
-            <strong> Operating Systems, Platforms & Networks</strong>
-          <br>
-          <br>
-          
-[![My Skills](https://skillicons.dev/icons?i=arch,kali,linux,ubuntu,windows,discord,github,linkedin,instagram,stack-overflow&perline=6)](https://skillicons.dev)
-        </p>
-     </div>
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>Programming Languages</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,ts,py,dart,php,java,bash&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
   </kbd>
 
   <kbd>
-     <div align="center">
-        <p>
-          <br>
-            <strong>IDEs & Code Editors, Testing & Monitoring</strong>
-          <br>
-          <br>
-          
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,eclipse,idea,postman,&perline=6)](https://skillicons.dev)
-        </p>
-     </div>
+    <div align="center">
+      <p>
+        <br>
+        <strong>Libraries, Frameworks & Databases</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,angular,nextjs,laravel,fastapi,bootstrap,tailwind,vite,supabase,mysql,postgres,dynamodb&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
   </kbd>
 
   <kbd>
-     <div align="center">
-        <p>
-          <br>
-            <strong> Design & Creative Tools, Build Tools & Package Managers</strong>
-          <br>
-          <br>
-          
-[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,npm&perline=6)](https://skillicons.dev)
-        </p>
-     </div>
+    <div align="center">
+      <p>
+        <br>
+        <strong>DevOps & Cloud</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,githubactions,cloudflare,azure,vercel&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
   </kbd>
-  
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>Operating Systems, Platforms & Networks</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=arch,kali,linux,ubuntu,windows,discord,github,linkedin,instagram,stack-overflow&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>IDEs & Code Editors, Testing & Monitoring</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,eclipse,idea,postman&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>Design & Creative Tools, Build Tools & Package Managers</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=figma,photoshop,npm&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
 </div>
+
 
 <img src="./assets/border_separator.gif">
 
