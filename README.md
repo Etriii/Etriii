@@ -76,6 +76,11 @@
 
 <!-- Github Stats -->
 <div align="center">
+
+  | Top Languages | Trophies |
+  | --- | --- |
+  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etriii&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" width="315px"/> | <img src="https://github-profile-trophy.vercel.app/?username=Etriii&theme=tokyonight&column=4&no-frame=true&margin-w=10&margin-h=10" width="315px"/> |
+  
   <h3>Github Stats</h3>
 
   <!-- Profile Summary and Streak -->
@@ -99,17 +104,10 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Etriii&theme=tokyonight&utcOffset=+8.0" width="340px" />
   </div>
 
-  <!-- Wakatime Stats
+  <!-- Wakatime Stats  -->
    <div style="margin-bottom: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Etriii&layout=compact&theme=tokyonight&hide_border=true&range=last_year" width="680px" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Etriii&layout=compact&theme=tokyonight&hide_border=true" width="680px" />
    </div>
- -->
-
-
-  <!-- Trophies -->
-  <div>
-      <img src="https://github-profile-trophy.vercel.app/?username=Etriii&theme=tokyonight&column=6&no-frame=true&margin-w=10" width="680" />
-  </div>
   
 </div>
 
